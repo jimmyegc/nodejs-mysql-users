@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js",
-    "build": "node src/index.js"
+    "build": "node src/app.js"
+  },
+  "engines": {
+    "node": ">=18.18.0 <19.0.0"
   },
   "keywords": [],
   "author": "",
