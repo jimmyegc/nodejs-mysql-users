@@ -1,7 +1,7 @@
 ### NodeJs + MySQL
 
 Ejemplo de API con NodeJs + MySQL
-Publicado en Netlify y Clever-cloud
+Publicado en Netlify y Clever-cloud.
 ---
 
 Basado en contenido de Fazt "Nodejs & MySQL Deploy gratuito en Railway" 
